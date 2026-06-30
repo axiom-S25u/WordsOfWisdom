@@ -1,0 +1,25 @@
+{
+	"geode": "5.7.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "axiom.wordsofwisdom",
+	"name": "WordsOfWisdom",
+	"version": "v1.0.0",
+	"developer": "Axiom",
+	"description": "replaces the NOT useful tips with rnadom comments",
+	"early-load": true,
+	"tags": [
+		"utility",
+		"joke"
+	],
+	"links": {
+		"community": "https://discord.gg/ckwYqVyXKm"
+	},
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
