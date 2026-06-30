@@ -8,7 +8,7 @@
 	},
 	"id": "axiom.wordsofwisdom",
 	"name": "WordsOfWisdom",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Axiom",
 	"description": "replaces the NOT useful tips with rnadom comments",
 	"early-load": true,
